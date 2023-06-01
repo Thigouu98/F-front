@@ -18,11 +18,11 @@
     transition:0.5s;
     animation: box 1.5s infinite alternate ease-in-out;
 }
-//*
+/*
 .box:hover{
     box-shadow: 0 0 15px 1px #acb5be;
 }
-*//
+*/
 @keyframes box{
     from{
         box-shadow: 0 0 1px 0 #acb5be;
